@@ -25,18 +25,38 @@
 ## Module 4: Data Analysis Pandas
 
 ### Grade A/B
+```
+Hello studentName,
 
+Congratulations on an outstanding homework assignment! You were able to cohesively present a written analysis that correctly find conclusions based on the data you organized! Very nice report!
+
+studentName, great job on creating your DataFrames. You were able to output all the expected PyCitySchools respective information, while simultaneously being able to produce correct results with ALL the required functions! GroupBy was used correctly to determine the scores across all school datatypes. And lastly, well done with your ability to use NaN to replace reading and math values! 
+
+Now, studentName, I have to say how impressed I was to see you write comprehensive reports and how you now have the data to support it. This was an amazing start to your for this unit studentName, keep up the good work and this amazing flow you have been able to establish!
+```
 ### Grade C
 
 ### Grade D/F
-Hello ,
+```
+Hello studentName,
 Thank you for submitting your homework assignment! You presented a notebook pulling in the school data csv. This is a great start!
+
 You were able to output the district summary with correct data! Unfortunately, there were some mistakes while utilizing the groupby function. I would recommend reviewing previous classwork that utilizes the groupby function.
-You are on the right path! Please try to utilize office hours, tutoring and learning assistance on a regular basis. Tasha, do not get discouraged, this is the beginning of the journey, things will come together and click!
+
+You are on the right path! Please try to utilize office hours, tutoring and learning assistance on a regular basis. studentName, do not get discouraged, this is the beginning of the journey, things will come together and click!
+```
 ## Module 5: Data Visualization
 
 ### Grade A/B
+```
+Hello studentName,
 
+Congratulations on an outstanding homework assignment! You were able to cohesively present a visual analysis that summarizes the data displayed in the DataFrame! You also visualized a correlation between Weight and Average Tumor Volume for the Capomulin regimen!
+
+studentName, great job on creating and merging your DataFrames in your notebook. It contained all the Mouse IDs, Timepoints, and all the other info on each mouse. The notebook also generated a summary DataFrame with all the requirements. The bar charts accurately matches the bar charts provided in the homework description as well! You were effectively able to demonstrate the graph with annotations, x-axis is by drug regimen and the correct graph style is used. This is a job well done! And you should be proud!
+
+Now, studentName, I have to say how impressed with your box plot and how you compiled the data to create it. Keep up the good work and this amazing flow you have been able to establish!
+```
 ### Grade C
 
 ### Grade D/F
