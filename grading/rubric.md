@@ -1,5 +1,33 @@
 [GitHub Repo](https://github.com/coding-boot-camp/DataViz-Lesson-Plans/tree/v1.2/04-Canvas)
 
+### Module 2 - VBA Stocks
+#### Retrieval of Data (20 points)
+- [ ] The script loops through one year of stock data and reads/ stores all of the following values from each row:
+    - [ ] ticker symbol (5 points)
+    - [ ] volume of stock (5 points)
+    - [ ] open price (5 points)
+    - [ ] close price (5 points)
+#### Column Creation (10 points)
+- [ ] On the same worksheet as the raw data, or on a new worksheet all columns were correctly created for:
+    - [ ] ticker symbol (2.5 points)
+    - [ ] total stock volume (2.5 points)
+    - [ ] yearly change ($) (2.5 points)
+    - [ ] percent change (2.5 points)
+#### Conditional Formatting (20 points)
+- [ ] Conditional formatting is applied correctly and appropriately to the yearly change column (10 points)
+- [ ] Conditional formatting is applied correctly and appropriately to the percent change column (10 points)
+#### Calculated Values (15 points)
+- [ ] All three of the following values are calculated correctly and displayed in the output:
+    - [ ] Greatest % Increase (5 points)
+    - [ ] Greatest % Decrease (5 points)
+    - [ ] Greatest Total Volume (5 points)
+#### Looping Across Worksheet (20 points)
+- [ ] The VBA script can run on all sheets successfully.
+#### GitHub/GitLab Submission (15 points)
+- [ ] All three of the following are uploaded to GitHub/GitLab:
+    - [ ] Screenshots of the results (5 points)
+    - [ ] Separate VBA script files (5 points)
+    - [ ] README file (5 points)
 ### Module 4 - Pandas
 [Link](https://github.com/coding-boot-camp/DataViz-Lesson-Plans/blob/v1.2/04-Canvas/04-Data-Analysis-Pandas/02-Application/02-challenge.md)
 #### District Summary (20 points)
@@ -156,6 +184,22 @@ To receive all points, the written report presents a cohesive written analysis t
 - [ ] Include appropriate commit messages in your files. (2 points)
 #### Comments (4 points)
 - [ ] Be well commented with concise, relevant notes that other developers can understand. (4 points)
+- [ ] 
+### Module 11 - Mars Scraping
+#### Part 1: Scrape Titles and Preview Text from Mars News (40 points)
+- [ ] Automated browsing (with Splinter) was used to visit the Mars news site, and the HTML code was extracted (with Beautiful Soup). (10 points)
+- [ ] The titles and preview text of the news articles were scraped and extracted. (20 points)
+- [ ] The scraped information was stored in the specified Python data structure—specifically, a list of dictionaries. (10 points)
+#### Part 2: Scrape and Analyze Mars Weather Data (60 points)
+- [ ] The HTML table was extracted into a Pandas DataFrame. Either Pandas or Splinter and Beautiful Soup were used to scrape the data. The columns have the correct headings and data types. (15 points)
+- [ ] The data was analyzed to answer the following questions: (10 points)
+	- [ ] How many months exist on Mars? (5 points)
+    - [ ] How many Martian days' worth of data are there? (5 points)
+- [ ] The data was analyzed to answer the following questions, and a data visualization was created to support each answer: (30 points)
+    - [ ] Which month, on average, has the lowest temperature? The highest? (10 points)
+    - [ ] Which month, on average, has the lowest atmospheric pressure? The highest? (10 points)
+    - [ ] How many terrestrial days exist in a Martian year? A visual estimate within 25% was made. (10 points)
+- [ ] The DataFrame was exported into a CSV file. (5 points)
 ### Module 14 - Belly Button Dashboard
 [Link](https://github.com/coding-boot-camp/DataViz-Lesson-Plans/blob/v1.2/04-Canvas/14-Interactive-Visualizations/02-Application/02-challenge.md)
 #### Bar Chart (30 points)

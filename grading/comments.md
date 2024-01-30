@@ -1,3 +1,4 @@
+
 ## Module 1: Excel
 
 ### Grade A/B
@@ -11,7 +12,13 @@
 ### Grade A/B
 
 ### Grade C
+```
+Hello studentName,
 
+Congratulations on a good homework assignment! You were able to demonstrate your ability to use VBA code to loop through the sheets correctly! Your calculation of total stock analysis was correct. Unfortunately, when creating the list of tickers, they were created on the same line as the original list of tickers rather than sequential rows.
+
+This was a good start to your 24 week journey studentName, keep up the good work and this amazing flow you have been able to establish!
+```
 ### Grade D/F
 
 ## Module 3: Python
@@ -96,7 +103,13 @@ Now, studentName, I have to say how impressed with your code formatting, you pla
 ## Module 11: Data Collection
 
 ### Grade A/B
+```
+Hello studentName,
 
+Congratulations on an outstanding homework assignment! You were able to demonstrate your web scraping abilities by retrieving ALL titles and preview text! All of these news info were correctly added to your dictionary, and the respective dictionary that contained titles and previews were added to a list.
+  
+Now, studentName, I have to say how impressed I was to see you scrape the mars weather data from the site. You took it a step further with extracting it all into a Pandas DataFrame! This was an amazing start merging your existing skills of web scraping and analyzing data! studentName, keep up the good work and this amazing flow you have been able to establish, it only gets better!
+```
 ### Grade C
 
 ### Grade D/F
