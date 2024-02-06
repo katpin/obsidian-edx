@@ -10,7 +10,13 @@
 ## Module 2: VBA
 
 ### Grade A/B
+```
+Hello studentName,
 
+Congratulations on an outstanding homework assignment! You were able to demonstrate your ability to write VBA code and loop through worksheets extremely well! You also added comments to explain the purpose of the code, all outputs match all stock analysis, you demonstrated abilities in looping mechanism while storing all values. All arrays are created for tickers and total stock volume! This is really really amazing! 
+  
+Now, studentName, I have to say how impressed I was to see you cohesively present your analysis and provide a ticker summary with the greatest decrease and greatest increase!. This was an amazing start to your 24 week journey studentName, keep up the good work and this amazing flow you have been able to establish!
+```
 ### Grade C
 ```
 Hello studentName,
@@ -39,7 +45,7 @@ Congratulations on an outstanding homework assignment! You were able to cohesive
 
 studentName, great job on creating your DataFrames. You were able to output all the expected PyCitySchools respective information, while simultaneously being able to produce correct results with ALL the required functions! GroupBy was used correctly to determine the scores across all school datatypes. And lastly, well done with your ability to use NaN to replace reading and math values! 
 
-Now, studentName, I have to say how impressed I was to see you write comprehensive reports and how you now have the data to support it. This was an amazing start to your for this unit studentName, keep up the good work and this amazing flow you have been able to establish!
+Now, studentName, I have to say how impressed I was to see you write comprehensive reports and how you now have the data to support it. This was an amazing start to your journey for this unit studentName, keep up the good work and this amazing flow you have been able to establish!
 ```
 ### Grade C
 
@@ -71,7 +77,15 @@ Now, studentName, I have to say how impressed with your box plot and how you com
 ## Module 6: Python APIs
 
 ### Grade A/B
+```
+Hello studentName,
 
+Congratulations on an outstanding homework assignment! You were able to deliver on all “WeatherPy” and "VacationPy" requirements, and were able to utilize the OpenWeatherMap API to retrieve all the weather data. Awesome job creating the scatter plots and all the relationships between the weather data!
+
+studentName, great job with your scatter plots while also calculating each of the linear regressions. I also see that a new map was created when importing the cities csv. Great job using the Geoapify API to find the nearest hotels and then mapping them as well! This is a job well done! And you should be proud!
+
+Now, studentName, I have to say how impressed with your vacation map, you narrowed down cities to your ideal weather conditions, you retrieved coordinates to create the hotel map! You have met all the requirements for this assignment! Keep up the good work and this amazing flow you have been able to establish!
+```
 ### Grade C
 
 ### Grade D/F
