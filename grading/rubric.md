@@ -1,5 +1,5 @@
-[GitHub Repo](https://github.com/coding-boot-camp/DataViz-Lesson-Plans/tree/v1.2/04-Canvas)
 
+[GitHub Repo](https://github.com/coding-boot-camp/DataViz-Lesson-Plans/tree/v1.2/04-Canvas)
 ### Module 2 - VBA Stocks
 2018
 ![[Pasted image 20240205195325.png]]
