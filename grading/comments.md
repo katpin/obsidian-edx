@@ -30,7 +30,15 @@ This was a good start to your 24 week journey studentName, keep up the good work
 ## Module 3: Python
 
 ### Grade A/B
+```
+Hello studentName,
 
+Congratulations on an outstanding homework assignment! You were able to demonstrate your ability to work with the terminal and print all the required voting results! You were also able to save these results to a text file.
+
+studentName, great job on creating clean, readable and sustainable code. Your codebase was not only error free, but you demonstrated your ability to optimize your code through testing and showed us your thought process through comments! This will be a huge skill to have once you are in the field!
+
+Now, studentName, I have to say how impressed I was to see you write python code so elegantly. You took it a step further with testing and comments. This was an amazing start with Python studentName, keep up the good work and this amazing flow you have been able to establish!
+```
 ### Grade C
 
 ### Grade D/F
@@ -93,6 +101,15 @@ Now, studentName, I have to say how impressed with your vacation map, you narrow
 ## Module 9: SQL
 
 ### Grade A/B
+```
+Hello studentName,
+
+Congratulations on an outstanding homework assignment! You were able to deliver on the establishment of your queries to create employees, departments, managers, salaries, and title tables which were all correct and successfully imported.
+
+studentName, great job listing out all the information for each employee. You were able to find it specifically for the year provided, and all the requirements for this assignment! This is a job well done! And you should be proud!
+
+Now, studentName, I have to say how impressed table creation and querying! Keep up the amazing work and this awesome flow you have been able to establish!
+```
 
 ### Grade C
 
@@ -139,7 +156,19 @@ Now, studentName, I have to say how impressed I was to see you scrape the mars w
 ## Module 14: Interactive Visualizations
 
 ### Grade A/B
+```
+Hello studentName,
 
+Congratulations on an outstanding homework assignment! You were able to demonstrate your bar chart creation abilities. Arrays were created when a new sample is selected from the dropdown! Also, all three elements of the trace object are created, and the data is in descending order! Well done creating a title for the chart from the layout array. As soon as the web application is loaded up, the bar chart behaves exactly as it should! Really, well done here!
+
+studentName, great job with your bubble chart, clean code is written for all five elements of the trace object, and correctly displayed on the chart. All three elements are created with the layout and when the webpage loads, the bar and bubble chart immediately initialize and update without any errors!
+
+Also, great job with your metadata, you were able to implement all the necessary requirements, it is also fully responsive and clean when the app loads! 
+
+What an amazing app, you are truly taking advantage of all data-visualization capabilities!
+
+Now, studentName, I have to say how impressed I am with your applications visualizations UX and responsiveness, the webpage has all three customizations and loads and updated all the required charts without any errors! This was an amazing assignment, you really got to showcase all your knowledge thus far in a beautiful comprehensive manner! studentName, keep up the good work and this amazing flow you have been able to establish, it only gets better!
+```
 ### Grade C
 
 ### Grade D/F

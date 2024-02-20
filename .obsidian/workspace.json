@@ -13,6 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "grading/rubric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "612d5d139bd05aac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "840e6084003af805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "grading/comments.md",
                 "mode": "source",
                 "source": false
@@ -147,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d9d67f821a7cf12",
+  "active": "840e6084003af805",
   "lastOpenFiles": [
     "grading/rubric.md",
     "grading/comments.md",
