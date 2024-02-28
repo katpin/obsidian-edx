@@ -2,7 +2,21 @@
 ## Module 1: Excel
 
 ### Grade A/B
+```
+Hello studentName,
 
+Congratulations on an outstanding homework assignment! You were able to demonstrate your ability to generate all your respective columns and rows in your data creation while simultaneously correctly applying your COUNTIFS to the Number columns.
+
+On the same note, great job utilizing operator formulas, ie: addition and division on the number columns.
+
+studentName, great job creating your line graph which you correctly filtered to visualize the relationship between the goal amount and the campaign’s chances of success/failure/cancellation. Also, well done with your pivot table studentName, you were able to correctly chart the outcome of each kickstarter project based on specific criteria!
+
+  
+
+Now, studentName, I have to say how impressed I was to see you cohesively present your analysis and draw three reasonable conclusions from the data.
+
+You took it a step further by stating the limitations of your dataset. This was an amazing start to your 24 week journey studentName, keep up the good work and this amazing flow you have been able to establish!
+```
 ### Grade C
 
 ### Grade D/F
@@ -123,7 +137,9 @@ Hello studentName,
 
 Congratulations on an outstanding homework assignment! You were able to deliver on the establishment of your queries to retrieve the climate data from the measurements table. Well done with your summary as well! 
 
-The temperatures were also added to the list which was then properly converted to a DataFrame. studentName well done creating a query that only collects data from the last year of data. You were also able to save the results to a DataFrame and plot them using the "plot" method. Your station analysis was excellent, you were able to find the number of stations, the most active station and create a query to find the tobs for the most active station, well done.
+The temperatures were also added to the list which was then properly converted to a DataFrame. studentName, well done creating a query that only collects data from the last year of data. You were also able to save the results to a DataFrame and plot them using the "plot" method. Your station analysis was excellent, you were able to find the number of stations, the most active station and create a query to find the tobs for the most active station, well done.
+
+Great job on binding your session between the python app and the database. Your landing page was clear and created the right routes. You were able to return all the jsonified data correctly, even the dynamic routes!
 
 Now, studentName, I have to say how impressed with your code formatting, you placed your imports at the top, named variables with standard conventions, and wrote concise comments! Keep up the amazing work and this awesome flow you have been able to establish!
 ```

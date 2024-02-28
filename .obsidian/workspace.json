@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grading/comments.md",
+                "file": "grading/rubric.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grading/comments.md",
+                "file": "grading/rubric.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grading/comments.md"
+                "file": "grading/rubric.md"
               }
             }
           }
@@ -165,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "840e6084003af805",
+  "active": "8d9d67f821a7cf12",
   "lastOpenFiles": [
-    "grading/rubric.md",
     "grading/comments.md",
+    "grading/rubric.md",
     "Pasted image 20240205195534.png",
     "Pasted image 20240205195516.png",
     "Pasted image 20240205195325.png",
